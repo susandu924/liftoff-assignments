@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[Susan Dudley github](https://github.com/susandu924)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[Susan Dudley Linkedin](https://www.linkedin.com/in/susan-dudley-09441a261/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
